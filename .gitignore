@@ -11,7 +11,6 @@ bin
 
 .dirstamp
 Makefile
-Makefile.in
 
 INSTALL
 aclocal.m4
@@ -20,7 +19,6 @@ aux
 config.log
 config.status
 config/
-configure
 libtool
 
 doc/common.tex
