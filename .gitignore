@@ -26,7 +26,6 @@ src/[GL]cursor_i.h
 src/mk_[GL]cursor_i.s
 
 include/config.h
-include/config.h.in
 include/libunwind-common.h
 include/stamp-h1
 include/libunwind.h
